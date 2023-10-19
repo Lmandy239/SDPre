@@ -10,7 +10,7 @@ import java.util.Scanner;
 			} else if (num2 > num1) {
 				System.out.println ("15 is greater than 5");
 			} else if ( num1 == num2) {
-				System.out.println("Both numbers are equal");
+				System.out.println("The numbers are equal");
 			}
 
 		}
